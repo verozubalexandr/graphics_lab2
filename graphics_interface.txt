@@ -1,0 +1,12 @@
+"Skopiuj numer konta" - Naciśnięcie tego przycisku powoduje skopiowanie numeru konta użytkownika do schowka.
+"Szybki przelew" - Ten przycisk umożliwia bezpośrednie przejście do sekcji szybkich przelewów dla zapisanych użytkowników.
+"Profil użytkownika" - Przycisk umożliwia przejście do profilu użytkownika, gdzie dostępne są dane do personalizacji i informacje o taryfie.
+"Sejf" - Przejdź do menu usługi „sejf”.
+"Karty kredytowe" - Otwiera sekcję ze wszystkimi kartami kredytowymi i informacjami na ich temat.
+"Ustawienia" - Przycisk umożliwiający przejście do ustawień aplikacji.
+"Transakcje" - Ten przycisk umożliwia otwarcie menu z transakcjami na karcie i pobranie potwierdzeń.
+"Zamknij aplikację" - Przycisk zamyka aplikację i powoduje powrót do okna kodu PIN.
+"Zablokuj kartę" - Przycisk umożliwia przejście do menu awaryjnej blokady karty.
+"Powiadomienia" - Przycisk umożliwia włączenie powiadomień z aplikacji.
+"Home" - Przycisk powoduje powrót do ekranu głównego aplikacji. Górna część ikony w widoku powiększonym działa jako wskazanie możliwej interakcji z menu.
+"Płatności" - Przycisk przenosi użytkownika do sekcji wyboru płatności/zakupu w aplikacji.
