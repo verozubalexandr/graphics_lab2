@@ -10,3 +10,7 @@
 "Powiadomienia" - Przycisk umożliwia włączenie powiadomień z aplikacji.
 "Home" - Przycisk powoduje powrót do ekranu głównego aplikacji. Górna część ikony w widoku powiększonym działa jako wskazanie możliwej interakcji z menu.
 "Płatności" - Przycisk przenosi użytkownika do sekcji wyboru płatności/zakupu w aplikacji.
+
+
+Przycisk ten działa jak otwarcie menu głównego, a odwrócony do góry nogami powoduje powrót użytkownika do ekranu głównego z kartą kredytową.
+
